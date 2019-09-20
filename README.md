@@ -1,2 +1,2 @@
-# Ame
+# Ame :)
 Clase de git ITAM
