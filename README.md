@@ -1,2 +1,2 @@
-# clase-git
+# Ame
 Clase de git ITAM
